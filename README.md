@@ -17,6 +17,8 @@
 <a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 <a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
 <a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Eamil" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
+<a href="https://t.me/jayantkhanna1"><img align="left" alt="telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" /></a>
+<a href="mailto:jayantkhanna31052002@outlook.com"><img align="left" alt="outlook" width="22px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
 <a href="tel:+918755429982"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 </div>
@@ -34,13 +36,36 @@
 <img align="left" alt="Java Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
-<img align="left" alt="Java swing" width="26px" src="" />
+<img align="left" alt="Figma" width="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="left" alt="Canva" width="26px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img align="left" alt="Jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
 <img align="left" alt="Json" width="26px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Ajax" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
+<img align="left" alt="Microsoft azure" width="26px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<br />
+<br />
+<hr />
+
+# Web browsers i have worked with:
+<img align="left" alt="Google chrome" width="26px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img align="left" alt="Microsoft Edge" width="26px" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
+<img align="left" alt="Tor" width="26px" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+<img align="left" alt="Opera" width="26px" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
+<img align="left" alt="Brave" width="26px" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+<img align="left" alt="Firefox" width="26px" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+<br />
+<br />
+<hr />
+
+# OS i am familiar with:
+<img align="left" alt="Android" width="26px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="left" alt="Windows" width="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="Ubuntu" width="26px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="left" alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" alt="Kali linux" width="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <br />
 <br />
 <p align="center"><b><i>Languages Used:</i><b><br><br>
