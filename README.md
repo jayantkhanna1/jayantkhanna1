@@ -36,12 +36,12 @@
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 <img align="left" alt="Java swing" width="26px" src="" />
 <img align="left" alt="Jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Ajax" width="26px" src="" />
+<img align="left" alt="Json" width="26px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="Ajax" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
 <br />
-<hr>
 <br />
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
