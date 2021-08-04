@@ -1,7 +1,6 @@
 # Hi there, I'm Jayant Khanna 👋
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fpages%2FHello-World-Org%2F152402935382481&psig=AOvVaw2xmjbXvPqWcIwH_dID4pO7&ust=1628150303989000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNio8NfylvICFQAAAAAdAAAAABAD" height="150px" width="170px">
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<img src="images_used/image1.jpeg" height="150px" width="170px">
+
 
 ## I'm a Student, Son, Developer, and Tech geek!!
 
