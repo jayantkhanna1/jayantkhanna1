@@ -12,10 +12,10 @@
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
 ### Connect with me:
-<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/"target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/jayant_khanna1/"target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" /></a>
-<a href="https://www.facebook.com/jayant.khanna.1612/"target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" /></a>
+<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" /></a>
 
 <br />
 
