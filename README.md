@@ -6,19 +6,16 @@
 
 ## I'm a Student, Son, Developer, and Tech geek!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn backend using Django and Postgresql
+- <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
-
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" />][discord]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" />][facebook]
 
 <br />
 
@@ -93,14 +90,11 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/jayant_khanna1/
+[linkedin]: https://www.linkedin.com/in/jayant-khanna-66a274185/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]:https://www.facebook.com/jayant.khanna.1612/
+[discord]:https://discordapp.com/users/758246703072804884/
