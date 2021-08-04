@@ -12,10 +12,10 @@
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" />][discord]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" />][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://discordapp.com/users/758246703072804884/"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" /></a>
+[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" />][facebook]
 
 <br />
 
