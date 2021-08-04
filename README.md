@@ -20,7 +20,22 @@
 <a href="tel:+918755429982"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 <br />
 <hr>
-
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="C Programming Language" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
+<img align="left" alt="Javascript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java Language" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="ReactJS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
+<img align="left" alt="Java swing" width="50px" src="" />
+<img align="left" alt="Jquery" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
+<img align="left" alt="Ajax" width="50px" src="" />
+<img align="left" alt="Bootstrap" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="postgresql" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <hr>
 <br>
 <p align="center"><b><i>Languages Used:</i><b><br><br>
