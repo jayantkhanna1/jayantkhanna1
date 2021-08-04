@@ -44,7 +44,6 @@
 <img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Ajax" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
-<img align="left" alt="Microsoft azure" width="26px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <br />
 <br />
 <hr />
