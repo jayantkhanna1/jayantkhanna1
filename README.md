@@ -29,7 +29,7 @@
     </a></p>
     <br />
 
-    <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
+<p align="center"><b><i>GitHub Statistics:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantkhanna1&show_icons=true&theme=dark&line_height=27" alt="Jayant's Github Stats"/>
     </a></p></div><br>
