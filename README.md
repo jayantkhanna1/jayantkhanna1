@@ -28,3 +28,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
     </a></p>
     <br />
+
+    <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
+<a href="https://github.com/jayantkhanna1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantkhanna1&show_icons=true&theme=dark&line_height=27" alt="Jayant's Github Stats"/>
+    </a></p></div><br>
+<div>
+  <p align="center"><b><i>Streak Statistics:</i></b><br><br>
+    <img alt="Jayant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantkhanna1&theme=dark&hide_border=true"/>
+  </p>
+</div>
+<hr>
+  <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Graph+of+Statistics:"></h2>
+  <img alt="Jayant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayantkhanna1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<hr>
