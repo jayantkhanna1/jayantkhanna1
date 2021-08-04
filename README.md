@@ -1,7 +1,7 @@
 # Hi there, I'm Jayant Khanna 👋
 <img src="images_used/image1.jpeg" height="150px" width="170px">
 <i>I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University</a>, Dehradun, currently pursuing BTECH CSE.
-    I am a front-end web developer currently making my way to a full stack developer and i <span> LOVE</span> reading about new technologies and new website designs
+    I am a front-end web developer currently making my way to a full stack developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
 </i>
 
 ## I'm a Student, Son, Developer, and Tech geek!!
