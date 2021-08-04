@@ -12,12 +12,12 @@
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
 ### Connect with me:
-<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" /></a>
-<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/ios-filled/24/000000/gmail-new.png" /></a>
-<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" /></a>
-
+<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
+<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
+<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
+<a href="tel:+918755429982" target="_blank"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 <br />
 
 ### Languages and Tools:
