@@ -17,7 +17,7 @@
 <a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
 <a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
 <a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
-<a href="tel:+918755429982" target="_blank"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
+<a href="tel:8755429982" target="_blank"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 <br />
 
 ### Languages and Tools:
