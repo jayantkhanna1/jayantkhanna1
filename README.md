@@ -19,8 +19,12 @@
 <a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
 <a href="tel:+918755429982"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 <br />
-
-### Languages and Tools:
+<p align="center"><b><i>Languages Used:</i><b><br><br>
+<a href="https://github.com/jayantkhanna1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
+    </a></p>
+    <br />
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -98,4 +102,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [facebook]:https://www.facebook.com/jayant.khanna.1612/
-[discord]:https://discordapp.com/users/758246703072804884/
+[discord]:https://discordapp.com/users/758246703072804884/ -->
