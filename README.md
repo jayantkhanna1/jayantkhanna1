@@ -13,14 +13,14 @@
 - ⚡ Fun fact: I love to draw and watch movies / series
 ### Connect with me:
 <div>
-<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
-<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
-<a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
-<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Eamil" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
-<a href="https://t.me/jayantkhanna1"><img align="left" alt="telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" /></a>
-<a href="mailto:jayantkhanna31052002@outlook.com"><img align="left" alt="outlook" width="22px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
-<a href="tel:+918755429982"><img align="left" alt="telephone" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
+<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="30px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
+<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Eamil" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
+<a href="https://t.me/jayantkhanna1"><img align="left" alt="telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" /></a>
+<a href="mailto:jayantkhanna31052002@outlook.com"><img align="left" alt="outlook" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" /></a>
+<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
+<a href="tel:+918755429982"><img align="left" alt="telephone" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
 </div>
 <br />
 <hr />
