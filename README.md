@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="22px" src="https://img.icons8.com/material-rounded/50/000000/discord-logo.png" /></a>
+<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/ios-filled/24/000000/gmail-new.png" /></a>
 <a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" /></a>
 
 <br />
