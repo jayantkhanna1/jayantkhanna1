@@ -84,6 +84,7 @@
 <br />
 <hr />
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=jayantkhanna1&column=8&theme=gruvbox&no-frame=true"/>
+  <br />
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
