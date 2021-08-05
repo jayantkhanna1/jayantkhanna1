@@ -36,8 +36,8 @@
 <img align="left" alt="Java Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
-<img align="left" alt="Figma" width="45px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img align="left" alt="Canva" width="45px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="left" alt="Canva" width="55px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img align="left" alt="Jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
 <img align="left" alt="Json" width="26px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
