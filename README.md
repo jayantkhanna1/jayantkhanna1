@@ -48,7 +48,6 @@
 <br />
 <img align="left" alt="Ajax" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
 
-<hr />
 
 # Web browsers i have worked with:
 <img align="left" alt="Google chrome" width="100px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
@@ -59,7 +58,7 @@
 <img align="left" alt="Firefox" width="100px" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 <br />
 <br />
-<hr />
+
 
 # OS i am familiar with:
 <img align="left" alt="Android" width="100px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
