@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 <a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 <a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="30px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
-<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Eamil" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
+<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
 <a href="https://t.me/jayantkhanna1"><img align="left" alt="telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" /></a>
 <a href="mailto:jayantkhanna31052002@outlook.com"><img align="left" alt="outlook" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" /></a>
 <a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
@@ -36,8 +36,8 @@
 <img align="left" alt="Java Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
-<img align="left" alt="Figma" width="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img align="left" alt="Canva" width="26px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img align="left" alt="Figma" width="45px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="left" alt="Canva" width="45px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img align="left" alt="Jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
 <img align="left" alt="Json" width="26px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
