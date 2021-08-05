@@ -75,9 +75,9 @@
 <a href="https://drive.google.com/drive/folders/14W6Nk2pykwPzq1qorcaPiDSAe5uOrgmp?usp=sharing"><img align="left" alt="Linux World" width="100px" src="" /></a>
 <a href="https://drive.google.com/drive/folders/1eQ4a2EJNCpBoYmg-VlkfCWd-nomJroeP?usp=sharing"><img align="left" alt="Hacker Rank" width="100px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/1k-qV3du741yKpS4h5ajCz2BxKUBTOhxW?usp=sharing"><img align="left" alt="aws" width="100px" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="100px" src="" /></a>
-<a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="100px" src="" /></a>
-<a href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGeeksforGeeks.svg&psig=AOvVaw2rECBIAnkwxgWZt4opASM3&ust=1628244399258000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCNz6PRmfICFQAAAAAdAAAAABAD" /></a>
+<a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="100px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Finmat.inmovidutech.com%2F&psig=AOvVaw1d2519Jb_STkIHKD-5NokV&ust=1628244440632000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjZ3q3RmfICFQAAAAAdAAAAABAD" /></a>
+<a href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternshala&psig=AOvVaw16boI7c-uVBaxHfvtJTiwT&ust=1628244459230000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPikk7fRmfICFQAAAAAdAAAAABAI" /></a>
 <br />
 <br />
 <hr />
