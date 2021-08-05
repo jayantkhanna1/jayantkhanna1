@@ -80,6 +80,8 @@
 <a href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="images_used/Internshala.png" /></a>
 <br />
 <br />
+<br />
+<br />
 <hr />
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
