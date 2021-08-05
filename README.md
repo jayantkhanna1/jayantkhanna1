@@ -83,7 +83,6 @@
 <br />
 <br />
 <hr />
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Github+Trophies"></h2>
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=aditiagarwal30&column=8&theme=gruvbox&no-frame=true"/>
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
