@@ -78,7 +78,9 @@
 <a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="100px" src="" /></a>
 <a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="100px" src="" /></a>
 <a href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="" /></a>
-
+<br />
+<br />
+<hr />
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
