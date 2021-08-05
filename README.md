@@ -45,9 +45,10 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <br />
 <br />
+<br />
+<br />
 <img align="left" alt="Ajax" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
-<br />
-<br />
+
 <hr />
 
 # Web browsers i have worked with:
