@@ -46,8 +46,7 @@
 <br />
 <br />
 <br />
-<br />
-<img align="left" alt="Ajax" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
+<img align="left" alt="Ajax" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
 
 <hr />
 
