@@ -77,6 +77,7 @@
 <a href="https://drive.google.com/drive/folders/1k-qV3du741yKpS4h5ajCz2BxKUBTOhxW?usp=sharing"><img align="left" alt="aws" width="100px" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="100px" src="images_used/geeksforgeeks.png" /></a>
 <a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="100px" src="images_used/inmovidu.png" /></a>
+<br />
 <a align="left" href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="images_used/Internshala.png" /></a>
 <br />
 <br />
