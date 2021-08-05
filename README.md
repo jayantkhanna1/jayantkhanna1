@@ -68,6 +68,17 @@
 <img align="left" alt="Kali linux" width="100px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <br />
 <br />
+
+# My certifications
+<a href="https://drive.google.com/drive/folders/1VdFNk5tzAZVHp63Hw7thCKH-DeLWbWJq?usp=sharing"><img align="left" alt="Udemy" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1_wwrx2AS9mMYpJFv6_FvNmPhxjodb1Yo?usp=sharing"><img align="left" alt="Microsoft" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/14W6Nk2pykwPzq1qorcaPiDSAe5uOrgmp?usp=sharing"><img align="left" alt="Linux World" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1eQ4a2EJNCpBoYmg-VlkfCWd-nomJroeP?usp=sharing"><img align="left" alt="Hacker Rank" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1k-qV3du741yKpS4h5ajCz2BxKUBTOhxW?usp=sharing"><img align="left" alt="aws" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="100px" src="" /></a>
+<a href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="100px" src="" /></a>
+
 <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/jayantkhanna1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
