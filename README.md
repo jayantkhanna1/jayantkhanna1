@@ -47,7 +47,7 @@
 <br />
 <br />
 <img align="left" alt="Ajax" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
-
+<br />
 
 # Web browsers i have worked with:
 <img align="left" alt="Google chrome" width="100px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
