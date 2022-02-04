@@ -11,6 +11,19 @@
 - 🥅 2021 Goals: Learn backend using Django and Postgresql
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
+
+## Here are my projects
+
+- https://github.com/jayantkhanna1/resume
+- https://github.com/jayantkhanna1/medically-project
+- https://jayantkhanna1.github.io/array-visualizer/
+- https://jayantkhanna1.github.io/covid-relief/
+- https://jayantkhanna1.github.io/covid-experiment/
+- https://github.com/jayantkhanna1/teacher-information-application
+- https://jayantkhanna1.github.io/testimonials-animation/
+- https://jayantkhanna1.github.io/loginform-1/
+- https://jayantkhanna1.github.io/internship-project/
+
 ### Connect with me:
 <div>
 <a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
