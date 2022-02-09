@@ -14,8 +14,8 @@
 
 ## Here are my projects
 
-- https://github.com/jayantkhanna1/resume
-- https://github.com/jayantkhanna1/medically-project
+- https://jayantresume.herokuapp.com/index
+- https://medically-project.herokuapp.com/
 - https://jayantkhanna1.github.io/array-visualizer/
 - https://jayantkhanna1.github.io/covid-relief/
 - https://jayantkhanna1.github.io/covid-experiment/
