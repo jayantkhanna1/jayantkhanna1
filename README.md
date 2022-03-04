@@ -47,7 +47,6 @@
 <img align="left" alt="C Programming Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="55px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
@@ -91,6 +90,8 @@
 <a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="10%" src="images_used/geeksforgeeks.png" /></a>
 <a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="10%" src="images_used/inmovidu.png" /></a>
 <a align="left" href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="10%" src="images_used/Internshala.png" /></a>
+<a align="left" href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
+<a align="left" href="https://drive.google.com/drive/folders/16iJjfHrwo3xmyzesq7mMu1lHXBy0wCTb?usp=sharing"><img align="left" alt="Adobe" width="10%" src="images_used/adobe.jpg" /></a>
 <br />
 <br />
 <br />
