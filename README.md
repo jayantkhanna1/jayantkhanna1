@@ -85,14 +85,12 @@
 <a href="https://drive.google.com/drive/folders/1VdFNk5tzAZVHp63Hw7thCKH-DeLWbWJq?usp=sharing"><img align="left" alt="Udemy" width="10%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/1_wwrx2AS9mMYpJFv6_FvNmPhxjodb1Yo?usp=sharing"><img align="left" alt="Microsoft" width="10%" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/14W6Nk2pykwPzq1qorcaPiDSAe5uOrgmp?usp=sharing"><img align="left" alt="Linux World" width="10%" src="images_used/linuxworld.png" /></a>
-<a href="https://drive.google.com/drive/folders/1eQ4a2EJNCpBoYmg-VlkfCWd-nomJroeP?usp=sharing"><img align="left" alt="Hacker Rank" width="10%" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+
 <a href="https://drive.google.com/drive/folders/1k-qV3du741yKpS4h5ajCz2BxKUBTOhxW?usp=sharing"><img align="left" alt="aws" width="10%" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="10%" src="images_used/geeksforgeeks.png" /></a>
 <a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="10%" src="images_used/inmovidu.png" /></a>
-<a align="left" href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="10%" src="images_used/Internshala.png" /></a>
-<br>
-<br>
-<a align="left" style="margin-left=-30%" href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
+
+<a align="left"  href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
 <a align="left" href="https://drive.google.com/drive/folders/16iJjfHrwo3xmyzesq7mMu1lHXBy0wCTb?usp=sharing"><img align="left" alt="Adobe" width="10%" src="images_used/adobe.jpg" /></a>
 <br />
 <br />
