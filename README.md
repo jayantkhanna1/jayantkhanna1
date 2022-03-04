@@ -92,7 +92,7 @@
 <a align="left" href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="10%" src="images_used/Internshala.png" /></a>
 <br>
 <br>
-<a align="left" href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
+<a align="left" style="margin-left=-30%" href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
 <a align="left" href="https://drive.google.com/drive/folders/16iJjfHrwo3xmyzesq7mMu1lHXBy0wCTb?usp=sharing"><img align="left" alt="Adobe" width="10%" src="images_used/adobe.jpg" /></a>
 <br />
 <br />
