@@ -90,8 +90,8 @@
 <a href="https://drive.google.com/drive/folders/1vIakxvE5kGCade2pGI1XiviIw3K9aAOG?usp=sharing"><img align="left" alt="Geeks for Geeks" width="10%" src="images_used/geeksforgeeks.png" /></a>
 <a href="https://drive.google.com/drive/folders/1hKASfocFRbImxxJbZ-nBNYUtxz48y-77?usp=sharing"><img align="left" alt="Inmovidu" width="10%" src="images_used/inmovidu.png" /></a>
 <a align="left" href="https://drive.google.com/drive/folders/1-N9912kdGo3BWiknKplJzWSU8Z3E-3K_?usp=sharing"><img align="left" alt="Internshala" width="10%" src="images_used/Internshala.png" /></a>
-<a href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img align="left" alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
-<a href="https://drive.google.com/drive/folders/16iJjfHrwo3xmyzesq7mMu1lHXBy0wCTb?usp=sharing"><img align="left" alt="Adobe" width="10%" src="images_used/adobe.jpg" /></a>
+<a href="https://drive.google.com/drive/folders/17oYTJa2PxqqxKmxSRgx2HWHUgRW_cYYw?usp=sharing"><img  alt="Forage" width="10%" src="images_used/forage.jpg" /></a>
+<a href="https://drive.google.com/drive/folders/16iJjfHrwo3xmyzesq7mMu1lHXBy0wCTb?usp=sharing"><img  alt="Adobe" width="10%" src="images_used/adobe.jpg" /></a>
 <br />
 <br />
 <br />
