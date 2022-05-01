@@ -1,14 +1,14 @@
 # Hi there, I'm Jayant Khanna 👋
-<img src="images_used/image1.jpeg" height="150px" width="170px">
+<img src="images_used/code.gif"style="text-align:center;" height="150px" width="25px">
 <i>I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University</a>, Dehradun, currently pursuing BTECH CSE.
-    I am a front-end web developer currently making my way to a full stack developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
+    I am a Full-Stack Django Web developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
 </i>
 
 ## I'm a Student, Son, Developer, and a Tech geek!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn backend using Django and Postgresql
+- 🥅 2022 Goals: Learn React and further my skills as an ethical hacker
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - ⚡ Fun fact: I love to draw and watch movies / series
 
