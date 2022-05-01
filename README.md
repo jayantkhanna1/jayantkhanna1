@@ -1,9 +1,9 @@
 # Hi there, I'm Jayant Khanna 👋
-<p>
-<i>I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University</a>, Dehradun, currently pursuing BTECH CSE.
-    I am a Full-Stack Django Web developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
+<p>.
+<i>hi, i'm [Abhishek Naidu](https://jayantresume.herokupp.com/). I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era         University</a>, Dehradun, currently pursuing BTECH CSE.
+    I am a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
 </i>
-<img src="images_used/code.gif" height="250px" width="250px">
+<img align="right" src="images_used/code.gif" height="250px" width="250px">
 </p>
 ## I'm a Student, Son, Developer, and a Tech geek!!
 
