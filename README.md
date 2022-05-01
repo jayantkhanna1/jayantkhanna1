@@ -1,5 +1,5 @@
 # Hi there, I'm Jayant Khanna 👋
-<img src="images_used/code.gif" height="150px" width="25px">
+<img src="images_used/code.gif" height="150px" width="200px">
 <i>I am from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University</a>, Dehradun, currently pursuing BTECH CSE.
     I am a Full-Stack Django Web developer and I <span style="font-weight:600;"> LOVE</span> reading about new technologies and new website designs
 </i>
