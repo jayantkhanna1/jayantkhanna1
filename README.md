@@ -1,10 +1,11 @@
 # Hi there, I'm Jayant Khanna 👋
-<p>.
+
 <i>Hi, I'm <a href="jayantresume.herokuapp.com">Jayant Khanna</a>. I am Pursuing Btech  <a href="https://www.geu.ac.in/" target="_blank">Graphic Era  University</a>, Dehradun, currently in my sophomore year.
     I am a passionate self-taught full stack Django web developer, an ethical hacker and a freelance Python developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
+    <img align="right" src="images_used/code.gif" height="250px" width="250px">
 </i>
-<img align="right" src="images_used/code.gif" height="250px" width="250px">
-</p>
+
+
 
 ## I'm a Student, Son, Developer, and a Tech geek!!
 
