@@ -19,7 +19,7 @@
 
 ## Here are my projects
 
-- https://jayantresume.herokuapp.com/index
+- https://jayantresume.herokuapp.com
 - https://medically-project.herokuapp.com/
 - https://jayantkhanna1.github.io/array-visualizer/
 - https://jayantkhanna1.github.io/covid-relief/
