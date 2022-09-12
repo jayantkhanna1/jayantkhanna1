@@ -1,11 +1,9 @@
 # Hi there, I'm Jayant Khanna 👋
 
-<i>Hi, I'm <a href="jayantresume.herokuapp.com">Jayant Khanna</a>. I am Pursuing Btech  <a href="https://www.geu.ac.in/" target="_blank">Graphic Era  University</a>, Dehradun, currently in my sophomore year.
+<i>Hi, I'm <a href="jayantresume.herokuapp.com">Jayant Khanna</a>. I am Pursuing Btech  <a href="https://www.geu.ac.in/" target="_blank">Graphic Era  University</a>, Dehradun, currently in my third year.
     I am a passionate self-taught full stack Django web developer, an ethical hacker and a freelance Python developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
     <img align="right" src="images_used/code.gif" height="350px" width="350px">
 </i>
-
-
 
 ## I'm a Student, Son, Developer, and a Tech geek!!
 
@@ -17,17 +15,24 @@
 
 - ⚡ Fun fact: I love to draw and watch movies / series
 
-## Here are my projects
+## Here are projects i have completed
 
 - https://jayantkhanna.herokuapp.com
 - https://medically-project.herokuapp.com/
+- https://hrable.herokuapp.com/
+- https://encryptex.herokuapp.com/
+- https://github.com/jayantkhanna1/Python-Backdoor
 - https://jayantkhanna1.github.io/array-visualizer/
 - https://jayantkhanna1.github.io/covid-relief/
 - https://jayantkhanna1.github.io/covid-experiment/
 - https://github.com/jayantkhanna1/teacher-information-application
-- https://jayantkhanna1.github.io/testimonials-animation/
-- https://jayantkhanna1.github.io/loginform-1/
-- https://jayantkhanna1.github.io/internship-project/
+
+## Projects i am working on 
+
+- Forms application just like google forms
+- Notes application where people can login and save their notes
+- A website where people can login and save their data on cloud and access it from anywhere
+- An AR/VR application where interior designers can better show their vision to their customers
 
 ### Connect with me:
 <div>
