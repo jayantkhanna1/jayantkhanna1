@@ -17,7 +17,7 @@
 
 ## Here are projects i have completed
 
-- https://jayantkhanna.herokuapp.com
+- <a href= "http://54.241.138.120/">www.jayantkhanna.in</a>
 - https://medically-project.herokuapp.com/
 - https://hrable.herokuapp.com/
 - https://encryptex.herokuapp.com/
