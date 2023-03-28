@@ -31,10 +31,10 @@ Hi, I'm Jayant Khanna. I am currently in my third year of a Btech programme at G
 
 Property                 | Data  
 -------------------------|------
-Language            |  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
+Language            |  ![Django Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
 IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
-Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) 
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-AnanyaVishnoi-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AnanyaVishnoi3/) [![Gmail Badge](https://img.shields.io/badge/-AnanyaVishnoi-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ananyavishnoi26@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AnanyaVishnoi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-vishnoi/)
+Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)  ![Web Development Badge](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white)
+Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-JayantKhanna-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:jayantkhanna3105@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-JayantKhanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantkhanna1/)
 
 
 # My certifications
@@ -81,5 +81,5 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 
 ## <b> Visitors</b>
   <p align="center">
-  <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg">
+  <img src="https://profile-counter.glitch.me/jayantkhanna1/count.svg">
 </p>
