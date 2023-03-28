@@ -1,95 +1,41 @@
 # Hi there, I'm Jayant Khanna 👋
 
-<i>Hi, I'm <a href="jayantresume.herokuapp.com">Jayant Khanna</a>. I am Pursuing Btech  <a href="https://www.geu.ac.in/" target="_blank">Graphic Era  University</a>, Dehradun, currently in my third year.
-    I am a passionate self-taught full stack Django web developer, an ethical hacker and a freelance Python developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
-    <img align="right" src="images_used/code.gif" height="350px" width="350px">
+<i>
+Hi, I'm Jayant Khanna. I am currently in my third year of a Btech programme at Graphic Era University in Dehradun. I am a passionate self-taught <b>full-stack web developer, an ethical hacker and a freelance Python/Django developer </b> from india. My passion for software is coming up with ideas and turning them into beautiful interfaces. I give my creations a lot of consideration when it comes to their experience, architecture, and coding quality.
 </i>
+<br>
 
 ## I'm a Student, Son, Developer, and a Tech geek!!
 
 - 👯 I’m looking to collaborate with other developers from around the world
 
-- 🥅 2022 Goals: Learn React and further my skills as an ethical hacker
+- 💬 Ask me about anything.
 
-- <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
+- 📫 How to reach me: jayantkhanna3105@gmail.com
 
 - ⚡ Fun fact: I love to draw and watch movies / series
 
-## Here are projects i have completed
+## Here is my proof of work
 
-- https://jayantkhanna.herokuapp.com
-- https://medically-project.herokuapp.com/
-- https://hrable.herokuapp.com/
-- https://encryptex.herokuapp.com/
-- https://github.com/jayantkhanna1/Python-Backdoor
+- https://github.com/jayantkhanna1/Portfolio
+- https://github.com/jayantkhanna1/medically
+- https://github.com/jayantkhanna1/hrable
+- https://github.com/jayantkhanna1/Encryptex
+- https://github.com/jayantkhanna1/Backdoor
 - https://jayantkhanna1.github.io/array-visualizer/
 - https://jayantkhanna1.github.io/covid-relief/
 - https://jayantkhanna1.github.io/covid-experiment/
 - https://github.com/jayantkhanna1/teacher-information-application
 
-## Projects i am working on 
+## <b>Profile</b>
 
-- Forms application just like google forms
-- Notes application where people can login and save their notes
-- A website where people can login and save their data on cloud and access it from anywhere
-- An AR/VR application where interior designers can better show their vision to their customers
+Property                 | Data  
+-------------------------|------
+Language            |  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
+IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
+Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) 
+Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-AnanyaVishnoi-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AnanyaVishnoi3/) [![Gmail Badge](https://img.shields.io/badge/-AnanyaVishnoi-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ananyavishnoi26@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AnanyaVishnoi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-vishnoi/)
 
-### Connect with me:
-<div>
-<a href="https://www.linkedin.com/in/jayant-khanna-66a274185/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
-<a href="https://www.instagram.com/jayant_khanna1/" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
-<a href="https://discordapp.com/users/758246703072804884/" target="_blank"><img align="left" alt="Discord" width="30px" src="https://img.icons8.com/ultraviolet/40/000000/discord--v1.png" /></a>
-<a href="mailto:jayantkhanna3105@gmail.com" target="_blank"><img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" /></a>
-<a href="https://t.me/jayantkhanna1"><img align="left" alt="telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" /></a>
-<a href="mailto:jayantkhanna31052002@outlook.com"><img align="left" alt="outlook" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" /></a>
-<a href="https://www.facebook.com/jayant.khanna.1612/" target="_blank"><img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png" /></a>
-<a href="tel:+918755429982"><img align="left" alt="telephone" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/missed-call--v2.png" /></a>
-</div>
-<br />
-<hr />
-
-# Languages and Technology used:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="C Programming Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-<img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java Language" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="left" alt="Canva" width="55px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img align="left" alt="Jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Json" width="26px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<br />
-<br />
-<br />
-<img align="left" alt="Ajax" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" />
-<br />
-
-# Web browsers i have worked with:
-<img align="left" alt="Google chrome" width="100px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-<img align="left" alt="Microsoft Edge" width="100px" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
-<img align="left" alt="Tor" width="100px" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
-<img align="left" alt="Opera" width="100px" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
-<img align="left" alt="Brave" width="100px" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
-<img align="left" alt="Firefox" width="100px" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-<br />
-<br />
-
-
-# OS i am familiar with:
-<img align="left" alt="Android" width="100px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img align="left" alt="Windows" width="100px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img align="left" alt="Ubuntu" width="100px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="left" alt="Linux" width="100px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img align="left" alt="Kali linux" width="100px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<br />
-<br />
 
 # My certifications
 <a href="https://drive.google.com/drive/folders/1VdFNk5tzAZVHp63Hw7thCKH-DeLWbWJq?usp=sharing"><img align="left" alt="Udemy" width="10%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
@@ -127,5 +73,13 @@
 <hr>
 
   <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Graph+of+Statistics:"></h2>
-  <img alt="Jayant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayantkhanna1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <div>
+
+[![Jayant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jayantkhanna1&bg_color=000000&color=fcfcfc&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 <hr>
+
+## <b> Visitors</b>
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg">
+</p>
