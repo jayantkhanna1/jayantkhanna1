@@ -2,36 +2,36 @@
 
 <i>
 Hi, I'm Jayant Khanna. I am currently in my third year of a Btech programme at Graphic Era University in Dehradun. I am a passionate self-taught <b>full-stack web developer, an ethical hacker and a freelance Python/Django developer </b> from india. My passion for software is coming up with ideas and turning them into beautiful interfaces. I give my creations a lot of consideration when it comes to their experience, architecture, and coding quality.
+<img align="right" src="images_used/code.gif" height="350px" width="350px">
 </i>
 <br>
 
-## I'm a Student, Son, Developer, and a Tech geek!!
+## I'm a , Developer, and a Tech geek!!
 
 - 👯 I’m looking to collaborate with other developers from around the world
 
 - 💬 Ask me about anything.
 
-- 📫 How to reach me: jayantkhanna3105@gmail.com
+- 📫 Reach me at: jayantkhanna3105@gmail.com
 
-- ⚡ Fun fact: I love to draw and watch movies / series
+- ⚡ Fun fact: I love to watch movies / series
 
 ## Here is my proof of work
 
+- https://github.com/jayantkhanna1/Persev-Forms
 - https://github.com/jayantkhanna1/Portfolio
+- https://github.com/jayantkhanna1/Atlan
+- https://github.com/jayantkhanna1/Leetcode-bot
 - https://github.com/jayantkhanna1/medically
 - https://github.com/jayantkhanna1/hrable
 - https://github.com/jayantkhanna1/Encryptex
 - https://github.com/jayantkhanna1/Backdoor
-- https://jayantkhanna1.github.io/array-visualizer/
-- https://jayantkhanna1.github.io/covid-relief/
-- https://jayantkhanna1.github.io/covid-experiment/
-- https://github.com/jayantkhanna1/teacher-information-application
 
 ## <b>Profile</b>
 
 Property                 | Data  
 -------------------------|------
-Language            |  ![Django Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
+Language            |  ![Django Badge](https://img.shields.io/badge/Django-Framework-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
 IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
 Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)  ![Web Development Badge](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white)
 Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-JayantKhanna-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:jayantkhanna3105@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-JayantKhanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantkhanna1/)
@@ -53,19 +53,7 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-JayantK
 <br />
 <br />
 <hr />
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=jayantkhanna1&column=8&theme=gruvbox&no-frame=true"/>
-  <br />
-<p align="center"><b><i>Languages Used:</i><b><br><br>
-<a href="https://github.com/jayantkhanna1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkhanna1&theme=dark&hide_langs_below=1" />
-    </a></p>
-    <br />
 
-<p align="center"><b><i>GitHub Statistics:</i><b><br><br>
-<a href="https://github.com/jayantkhanna1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantkhanna1&show_icons=true&theme=dark&line_height=27" alt="Jayant's Github Stats"/>
-    </a></p></div><br>
-<div>
   <p align="center"><b><i>Streak Statistics:</i></b><br><br>
     <img alt="Jayant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantkhanna1&theme=dark&hide_border=true"/>
   </p>
