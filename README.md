@@ -1,7 +1,7 @@
 # Hi there, I'm Jayant Khanna 👋
 
 <i>
-Hi, I'm Jayant Khanna. I am currently in my third year of a Btech programme at Graphic Era University in Dehradun. I am a passionate self-taught <b>full-stack web developer, an ethical hacker and a freelance Python/Django developer </b> from india. My passion for software is coming up with ideas and turning them into beautiful interfaces. I give my creations a lot of consideration when it comes to their experience, architecture, and coding quality.
+Hi, I'm Jayant Khanna. I am currently in my final year of a Btech programme at Graphic Era University in Dehradun. I am a passionate self-taught <b>full-stack web developer, an ethical hacker and a freelance Python/Django developer </b> from india. My passion for software is coming up with ideas and turning them into beautiful interfaces. I give my creations a lot of consideration when it comes to their experience, architecture, and coding quality.
 <img align="right" src="images_used/code.gif" height="350px" width="350px">
 </i>
 <br>
